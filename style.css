@@ -228,11 +228,13 @@ nav{
     display: flex;
     align-items: center;
     justify-content: space-between;
+
 }
 #page2-bottom h1{
     font-size: 4vw;
     width:60%;
     line-height: 4vw;
+    z-index: 9;
 
 }
 #bottom-part2{
