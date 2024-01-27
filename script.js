@@ -23,9 +23,13 @@ elems.forEach(function(e){
         fixed.style.backgroundImage = `url(${image})`
     })
 })
-// elems.forEach(function(e){
-//    e.addEventListener("mouseenter",function(){
-//      var image = e.getAttribute("data-image")
-//      fixed.style.backgroundImage = `url(${"image"})`
-//    })
-// })
+
+var swiper = new Swiper(".mySwiper", {
+    slidesPerView: "auto",
+    centeredSlides: true,
+    spaceBetween: 30,
+    pagination: {
+      el: ".swiper-pagination",
+      clickable: true,
+    },
+  });
