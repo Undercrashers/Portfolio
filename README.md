@@ -1,4 +1,5 @@
 💻 My Awesome Portfolio 💼
+
 Hey there! 👋 Welcome to my personal portfolio repository. This is where I showcase my skills, projects, and experiences to the world. Feel free to check it out and let me know what you think! 🤗
 🌟 What's Inside?
 This repository contains the source code for my personal portfolio website, which is built using HTML, CSS, and JavaScript. You'll find information about me, my work experience, projects I've worked on, and maybe even some cool animations or interactive elements! 🎨
